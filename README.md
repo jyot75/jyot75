@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Frontend Web Development<br>🌱 I’m currently learning Backend Web Development using Django web framework<br>
+🔭 I’m currently working on Backend Web Development using Django web framework.<br>🌱 I’m currently learning Application Development with flutter.<br>
 
 
 ## 🌐 Socials:
